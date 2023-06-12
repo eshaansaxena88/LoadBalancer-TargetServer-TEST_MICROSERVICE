@@ -1,0 +1,1 @@
+java -jar -Dserver.port=8082 target/LB-TESTER-0.0.1-SNAPSHOT.jar
